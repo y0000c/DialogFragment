@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 /build
 =======
+=======
+>>>>>>> b224856a86ec947aee193d12cdfb4f5f41c6265c
 # Built application files
 *.apk
 *.ap_
@@ -56,4 +59,7 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+<<<<<<< HEAD
+>>>>>>> b224856a86ec947aee193d12cdfb4f5f41c6265c
+=======
 >>>>>>> b224856a86ec947aee193d12cdfb4f5f41c6265c
