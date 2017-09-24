@@ -1,4 +1,4 @@
-#Thu Sep 21 10:00:47 CST 2017
+#Sun Sep 24 17:58:41 CST 2017
 file.2=E\:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b21234e61c2931146aab18214211c59361aba33\\classes.dex
 base.2=E\:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_7b21234e61c2931146aab18214211c59361aba33
 file.1=E\:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\annotations-4.0.0-RC1_44aceb4aecd7d94b471ecb80e18bf899f59969ef\\classes.dex

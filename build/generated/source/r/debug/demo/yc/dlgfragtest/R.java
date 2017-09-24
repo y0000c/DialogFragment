@@ -2176,21 +2176,24 @@ containing a value of this type.
         public static final int abc_vector_test=0x7f020052;
         public static final int icon_at=0x7f020053;
         public static final int icon_close=0x7f020054;
-        public static final int notification_action_background=0x7f020055;
-        public static final int notification_bg=0x7f020056;
-        public static final int notification_bg_low=0x7f020057;
-        public static final int notification_bg_low_normal=0x7f020058;
-        public static final int notification_bg_low_pressed=0x7f020059;
-        public static final int notification_bg_normal=0x7f02005a;
-        public static final int notification_bg_normal_pressed=0x7f02005b;
-        public static final int notification_icon_background=0x7f02005c;
-        public static final int notification_template_icon_bg=0x7f020062;
-        public static final int notification_template_icon_low_bg=0x7f020063;
-        public static final int notification_tile_bg=0x7f02005d;
-        public static final int notify_panel_notification_icon_bg=0x7f02005e;
-        public static final int red_packet_bg=0x7f02005f;
-        public static final int white_round_corner_bg=0x7f020060;
-        public static final int yellow_round_corner_bg=0x7f020061;
+        public static final int nine_receive=0x7f020055;
+        public static final int nine_red_bg=0x7f020056;
+        public static final int nine_send=0x7f020057;
+        public static final int notification_action_background=0x7f020058;
+        public static final int notification_bg=0x7f020059;
+        public static final int notification_bg_low=0x7f02005a;
+        public static final int notification_bg_low_normal=0x7f02005b;
+        public static final int notification_bg_low_pressed=0x7f02005c;
+        public static final int notification_bg_normal=0x7f02005d;
+        public static final int notification_bg_normal_pressed=0x7f02005e;
+        public static final int notification_icon_background=0x7f02005f;
+        public static final int notification_template_icon_bg=0x7f020065;
+        public static final int notification_template_icon_low_bg=0x7f020066;
+        public static final int notification_tile_bg=0x7f020060;
+        public static final int notify_panel_notification_icon_bg=0x7f020061;
+        public static final int red_packet_bg=0x7f020062;
+        public static final int white_round_corner_bg=0x7f020063;
+        public static final int yellow_round_corner_bg=0x7f020064;
     }
     public static final class id {
         public static final int action0=0x7f0c0064;
@@ -2245,6 +2248,7 @@ containing a value of this type.
         public static final int ifRoom=0x7f0c0020;
         public static final int image=0x7f0c002a;
         public static final int info=0x7f0c006e;
+        public static final int left=0x7f0c0078;
         public static final int line1=0x7f0c0073;
         public static final int line3=0x7f0c0075;
         public static final int listMode=0x7f0c0009;
@@ -2269,6 +2273,7 @@ containing a value of this type.
         public static final int red_close=0x7f0c0060;
         public static final int red_open=0x7f0c005f;
         public static final int red_src=0x7f0c005e;
+        public static final int right=0x7f0c0079;
         public static final int right_icon=0x7f0c0070;
         public static final int right_side=0x7f0c006b;
         public static final int screen=0x7f0c0015;
@@ -2286,6 +2291,8 @@ containing a value of this type.
         public static final int search_src_text=0x7f0c0051;
         public static final int search_voice_btn=0x7f0c0055;
         public static final int select_dialog_listview=0x7f0c0056;
+        public static final int send_icon=0x7f0c007a;
+        public static final int send_tv=0x7f0c007b;
         public static final int shortcut=0x7f0c0040;
         public static final int showCustom=0x7f0c000f;
         public static final int showHome=0x7f0c0010;
@@ -2303,6 +2310,10 @@ containing a value of this type.
         public static final int text2=0x7f0c0074;
         public static final int textSpacerNoButtons=0x7f0c0036;
         public static final int textSpacerNoTitle=0x7f0c0035;
+        public static final int textView4=0x7f0c007c;
+        public static final int textView5=0x7f0c007d;
+        public static final int textView6=0x7f0c007e;
+        public static final int textView7=0x7f0c007f;
         public static final int time=0x7f0c006c;
         public static final int title=0x7f0c002e;
         public static final int titleDividerNoCustom=0x7f0c003d;
@@ -2372,6 +2383,8 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f040030;
         public static final int select_dialog_singlechoice_material=0x7f040031;
         public static final int support_simple_spinner_dropdown_item=0x7f040032;
+        public static final int test_nine=0x7f040033;
+        public static final int test_nine_layout=0x7f040034;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

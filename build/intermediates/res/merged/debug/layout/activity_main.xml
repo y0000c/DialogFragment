@@ -8,30 +8,43 @@
     android:orientation="vertical"
     tools:context="demo.yc.dlgfragtest.MainActivity">
 
-
     <Button
-        android:onClick="click1"
         android:id="@+id/button"
         android:layout_width="match_parent"
-        android:layout_height="48dp" android:text="普通"
+        android:layout_height="48dp"
+        android:onClick="click1" android:text="普通"
         tools:layout_editor_absoluteX="8dp" tools:layout_editor_absoluteY="0dp"/>
     <Button
-        android:onClick="loadClick"
         android:id="@+id/loading"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" android:text="加载"
+        android:layout_height="wrap_content"
+        android:onClick="loadClick" android:text="加载"
         tools:layout_editor_absoluteX="8dp" tools:layout_editor_absoluteY="45dp"/>
     <Button
-        android:onClick="bottomListClick"
         android:id="@+id/button3"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" android:text="底部列表"
+        android:layout_height="wrap_content"
+        android:onClick="bottomListClick" android:text="底部列表"
         tools:layout_editor_absoluteX="8dp" tools:layout_editor_absoluteY="93dp"/>
     <Button
-        android:onClick="redClick"
         android:id="@+id/button5"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" android:text="红包"
+        android:layout_height="wrap_content"
+        android:onClick="redClick" android:text="红包"
         tools:layout_editor_absoluteX="8dp" tools:layout_editor_absoluteY="189dp"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="chatClick"
+        android:text="聊天"/>
+
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="nineClick"
+        android:text=".9布局图"/>
+
 
 </LinearLayout>

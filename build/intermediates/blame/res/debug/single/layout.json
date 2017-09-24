@@ -52,6 +52,14 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\layout\\test_nine.xml",
+        "source": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\src\\main\\res\\layout\\test_nine.xml"
+    },
+    {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\layout\\test_nine_layout.xml",
+        "source": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\src\\main\\res\\layout\\test_nine_layout.xml"
+    },
+    {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\layout\\notification_template_part_chronometer.xml"
     },

@@ -1,4 +1,4 @@
-#Thu Sep 21 15:28:08 CST 2017
+#Sun Sep 24 18:29:00 CST 2017
 base.0=E\:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_780999ef97c2f76043bc90799b8b732fb39f2ee4
 renamed.1=classes2.dex
 renamed.0=classes.dex

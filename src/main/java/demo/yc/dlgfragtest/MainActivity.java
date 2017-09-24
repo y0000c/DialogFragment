@@ -162,6 +162,20 @@ public class MainActivity extends AppCompatActivity
                 .show(getSupportFragmentManager());
     }
 
+    public void chatClick(View view)
+    {
+        MyDialog.init()
+                .setLayoutId(R.layout.test_nine)
+                .show(getSupportFragmentManager());
+    }
+
+    public void nineClick(View view)
+    {
+        MyDialog.init()
+                .setLayoutId(R.layout.test_nine_layout)
+                .show(getSupportFragmentManager());
+    }
+
     // 可以做listView任意的事情
     // 设置这种属性，adapter
     private void initListView(ListView listView, final BaseFrag frag)

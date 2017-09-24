@@ -6,7 +6,7 @@
     density="xxhdpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1505978884348"
+    timestamp="1506248938571"
     token="2531238375421025872"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -29,25 +29,10 @@
 
     <build
         build-mode="FULL"
-        timestamp="1505973624046"
+        timestamp="1506247103130"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\outputs\apk\dlgfragtest-debug.apk"
-            type="SPLIT_MAIN" />
-        <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_5.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_6.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_7.apk"
-            type="SPLIT" />
-        <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
             location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_1.apk"
@@ -59,18 +44,33 @@
             location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
         <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\dep\dependencies.apk"
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_7.apk"
+            type="SPLIT" />
+        <artifact
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
+        <artifact
+            location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\outputs\apk\dlgfragtest-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1505978563234"
+        timestamp="1506248666314"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\intermediates\split-apk\debug\slices\slice_2.apk"
@@ -81,7 +81,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1505978884348"
+        timestamp="1506248938571"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="E:\studio_examples\UnitTestDemo\dlgfragtest\build\outputs\apk\dlgfragtest-debug.apk"

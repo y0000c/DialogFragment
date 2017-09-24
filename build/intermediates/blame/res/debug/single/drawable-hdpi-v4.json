@@ -56,12 +56,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
-    },
-    {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
     },
     {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
@@ -80,12 +80,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
     },
     {
-        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
-    },
-    {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",

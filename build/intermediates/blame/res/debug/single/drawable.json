@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
@@ -72,24 +72,24 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
-    },
-    {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\red_packet_bg.png",
         "source": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\src\\main\\res\\drawable\\red_packet_bg.png"
+    },
+    {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_textfield_search_material.xml"
-    },
-    {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_close.png",
         "source": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\src\\main\\res\\drawable\\icon_close.png"
+    },
+    {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
@@ -112,12 +112,16 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
-        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\nine_red_bg.9.png",
+        "source": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\src\\main\\res\\drawable\\nine_red_bg.9.png"
     },
     {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\white_round_corner_bg.xml",
         "source": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\src\\main\\res\\drawable\\white_round_corner_bg.xml"
+    },
+    {
+        "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\2be8a0cea968a31f901244b48f11790a6978fd8d\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "E:\\studio_examples\\UnitTestDemo\\dlgfragtest\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
